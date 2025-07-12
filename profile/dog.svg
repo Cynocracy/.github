@@ -14,4 +14,8 @@
   <rect x="140" y="110" width="10" height="30" fill="#654321" />
 
   <circle cx="38" cy="75" r="3" fill="black" />
+
+  <ellipse cx="25" cy="85" rx="10" ry="7" fill="#654321" />
+
+  <circle cx="25" cy="83" r="3" fill="black" />
 </svg>
