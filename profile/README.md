@@ -1,2 +1,2 @@
 # Cynocracy
-![According to Gemini, a Dog](./profile/dog.svg)
+![Dang these are getting pretty good - made with :heart: by Claude](./profile/dog.svg)
