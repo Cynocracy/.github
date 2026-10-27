@@ -1,2 +1,2 @@
 # Cynocracy
-![Dang these are getting pretty good - made with :heart: by Claude](./profile/dog.svg)
+![by Claude](./profile/dog.svg)
